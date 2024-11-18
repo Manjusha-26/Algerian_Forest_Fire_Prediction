@@ -44,17 +44,17 @@ EDA revealed critical patterns in fire occurrence and its relationship with weat
 
 1. **Fire Distribution**:
    - **Pie Chart**: A balanced distribution of fire (`56.5%`) and no-fire (`43.5%`) cases.
-   - **Classes Visualization**: ![image](https://github.com/saran1301/Algerian_Forest_Fire_Prediction/blob/9812c900bf6277110830688456d1af00ee27fd3b/src/Visualisations/Pie%20Chart%20of%20Classes.png)
+   - **Classes Visualization**: ![image](https://github.com/Manjusha-26/Algerian_Forest_Fire_Prediction/blob/3eadd9ac95e88bf0c8c3689da7f3bfedc4338edd/src/Visualisations/Pie%20Chart%20of%20Classes.png)
 
 2. **Correlation Analysis**:
    - Strong correlations observed between `FWI`, `DC`, and `DMC`.
    - **Plots** : 
-![image](https://github.com/saran1301/Algerian_Forest_Fire_Prediction/blob/cc816b3af747906bb15b5b231ceef1c3e4da4dfb/src/Visualisations/Correlation_Plots.png)
+![image](https://github.com/Manjusha-26/Algerian_Forest_Fire_Prediction/blob/3eadd9ac95e88bf0c8c3689da7f3bfedc4338edd/src/Visualisations/Correlation_Plots.png)
 
 3. **Monthly Trends**:
    - August and September recorded the highest fire occurrences across both regions.
-   - **Monthly Fire Analysis**: ![image](https://github.com/saran1301/Algerian_Forest_Fire_Prediction/blob/9812c900bf6277110830688456d1af00ee27fd3b/src/Visualisations/Fire%20Analysis%20of%20Sidi-Bel%20Region.png)
-     ![image](https://github.com/saran1301/Algerian_Forest_Fire_Prediction/blob/9812c900bf6277110830688456d1af00ee27fd3b/src/Visualisations/Fire%20analysis%20of%20Bejaia%20Region.png)
+   - **Monthly Fire Analysis**: ![image](https://github.com/Manjusha-26/Algerian_Forest_Fire_Prediction/blob/3eadd9ac95e88bf0c8c3689da7f3bfedc4338edd/src/Visualisations/Fire%20Analysis%20of%20Sidi-Bel%20Region.png)
+     ![image](https://github.com/Manjusha-26/Algerian_Forest_Fire_Prediction/blob/3eadd9ac95e88bf0c8c3689da7f3bfedc4338edd/src/Visualisations/Fire%20analysis%20of%20Bejaia%20Region.png)
 
 
 ### Insights:
@@ -73,7 +73,7 @@ EDA revealed critical patterns in fire occurrence and its relationship with weat
 
 ## Feature Scaling:
 - Standardized features to improve model convergence and accuracy.
-- **Scaling Visualization**: ![image](https://github.com/saran1301/Algerian_Forest_Fire_Prediction/blob/9812c900bf6277110830688456d1af00ee27fd3b/src/Visualisations/Feature%20Scaling.png)
+- **Scaling Visualization**: ![image](https://github.com/Manjusha-26/Algerian_Forest_Fire_Prediction/blob/3eadd9ac95e88bf0c8c3689da7f3bfedc4338edd/src/Visualisations/Feature%20Scaling.png)
 
 ---
 
@@ -116,11 +116,5 @@ This project successfully demonstrates the use of machine learning to predict fi
    - Map high-risk areas using GIS tools.
 3. **Real-Time Predictions**:
    - Deploy models on IoT-enabled weather stations for dynamic monitoring.
-
-<<<<<<< HEAD
-=======
----
-
-This README file not only highlights your project's technical depth but also emphasizes its practical applications and business value, making it highly appealing to recruiters. Let me know if you need further customization!
 
 >>>>>>> f091453bc490052175b04353a0c604e906d8be5e
