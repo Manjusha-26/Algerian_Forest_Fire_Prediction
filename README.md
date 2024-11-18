@@ -116,5 +116,3 @@ This project successfully demonstrates the use of machine learning to predict fi
    - Map high-risk areas using GIS tools.
 3. **Real-Time Predictions**:
    - Deploy models on IoT-enabled weather stations for dynamic monitoring.
-
->>>>>>> f091453bc490052175b04353a0c604e906d8be5e
